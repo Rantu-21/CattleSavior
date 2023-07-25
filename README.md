@@ -1,4 +1,4 @@
-# For vacination reminder we do:
+# For vacination reminder:
  1. The main file of the feature 'Vaccine Reminder' is inside screens=>Vaccination_reminder.dart
  2. screens=>add_reminder.dart is  to add a new reminder.
  3. model=>widgets=>button.dart and input_field.dart is used inside add_reminder.dart file
